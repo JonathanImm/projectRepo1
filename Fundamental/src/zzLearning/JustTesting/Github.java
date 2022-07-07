@@ -11,6 +11,7 @@ public class Github {
 		System.out.println(res);
 		
 		System.out.println("perubahan 1"); //perubahan pertama
+		System.out.println("perubahan 2"); //perubahan kedua
 		
 	}
 	
