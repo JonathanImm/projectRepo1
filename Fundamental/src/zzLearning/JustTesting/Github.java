@@ -9,7 +9,7 @@ public class Github {
 		int res = 30 + num;
 		
 		System.out.println(res);
-		
+		System.out.println("a");
 		
 	}
 	
